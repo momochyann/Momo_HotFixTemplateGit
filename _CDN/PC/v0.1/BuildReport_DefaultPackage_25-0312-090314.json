@@ -1,0 +1,193 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2022.3.44f1c1",
+        "BuildDate": "2025/3/12 9:03:23",
+        "BuildSeconds": 9,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "25-0312-090314",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 9,
+        "MainAssetTotalCount": 6,
+        "AllBundleTotalCount": 7,
+        "AllBundleTotalSize": 206432,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotFixSceneBackImage",
+            "AssetPath": "Assets/[0]Cilent/Textures/HotFixSceneBackImage.png",
+            "AssetGUID": "ec7fb5d4488c1ab419c87078300d37df",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_textures.bundle",
+            "MainBundleSize": 129538,
+            "DependAssets": []
+        },
+        {
+            "Address": "标题",
+            "AssetPath": "Assets/[0]Cilent/Textures/标题.png",
+            "AssetGUID": "bd3c793536876ae4ba20688ef85a0fa3",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_textures.bundle",
+            "MainBundleSize": 129538,
+            "DependAssets": []
+        },
+        {
+            "Address": "HotBadgeConfig",
+            "AssetPath": "Assets/[0]Cilent/Config/HotBadgeConfig.asset",
+            "AssetGUID": "195c542a8711ce5499a46f39bca92b97",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_config.bundle",
+            "MainBundleSize": 1825,
+            "DependAssets": []
+        },
+        {
+            "Address": "StartInit",
+            "AssetPath": "Assets/[0]Cilent/Prefabs/StartInit.prefab",
+            "AssetGUID": "72c77e01529b85a439fd2106e7bcbdd2",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_prefabs.bundle",
+            "MainBundleSize": 2655,
+            "DependAssets": []
+        },
+        {
+            "Address": "GameStartScene",
+            "AssetPath": "Assets/[0]Cilent/Scenes/GameStartScene.unity",
+            "AssetGUID": "b0e12921701a963438ebc88365a0969d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_scenes.bundle",
+            "MainBundleSize": 13526,
+            "DependAssets": []
+        },
+        {
+            "Address": "HotFixScene",
+            "AssetPath": "Assets/[0]Cilent/Scenes/HotFixScene.unity",
+            "AssetGUID": "8c9cfa26abfee488c85f1582747f6a02",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_scenes.bundle",
+            "MainBundleSize": 13526,
+            "DependAssets": [
+                "Assets/ProceduralUIImage/Editor/procedural_image_inspector_icon.png",
+                "Assets/[0]Cilent/Textures/HotFixSceneBackImage.png",
+                "Assets/ProceduralUIImage/Resources/procedural_ui_image_default_sprite.png",
+                "Assets/[0]Cilent/Textures/标题.png",
+                "Assets/[1]Local/Textures/HotInit/76b326fb721f86457dbd92b93a259077.jpeg"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_textures.bundle",
+            "FileName": "f7e17e3d49a6990b06c5164d54b114ed.bundle",
+            "FileHash": "f7e17e3d49a6990b06c5164d54b114ed",
+            "FileCRC": "938c5883",
+            "FileSize": 129538,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Textures/HotFixSceneBackImage.png",
+                "Assets/[0]Cilent/Textures/标题.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_config.bundle",
+            "FileName": "e75e85002dbdb1db3084100ccd1b837a.bundle",
+            "FileHash": "e75e85002dbdb1db3084100ccd1b837a",
+            "FileCRC": "22022a0c",
+            "FileSize": 1825,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Config/HotBadgeConfig.asset"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_prefabs.bundle",
+            "FileName": "80ef2783d0dc65e22759b07e03914582.bundle",
+            "FileHash": "80ef2783d0dc65e22759b07e03914582",
+            "FileCRC": "6592fc7d",
+            "FileSize": 2655,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Prefabs/StartInit.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_scenes.bundle",
+            "FileName": "9565193292bb8e3381ac963abfe2318a.bundle",
+            "FileHash": "9565193292bb8e3381ac963abfe2318a",
+            "FileCRC": "5a031571",
+            "FileSize": 13526,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_assets_[0]cilent_textures.bundle",
+                "defaultpackage_share_assets_[1]local_textures_hotinit.bundle",
+                "defaultpackage_share_assets_proceduraluiimage_resources.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Scenes/GameStartScene.unity",
+                "Assets/[0]Cilent/Scenes/HotFixScene.unity"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_proceduraluiimage_editor.bundle",
+            "FileName": "0edb95e91b636634d47311c51d8f26df.bundle",
+            "FileHash": "0edb95e91b636634d47311c51d8f26df",
+            "FileCRC": "616a50f8",
+            "FileSize": 1197,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/ProceduralUIImage/Editor/procedural_image_inspector_icon.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_proceduraluiimage_resources.bundle",
+            "FileName": "a5ed70d10d1915ec4130afec7adddaff.bundle",
+            "FileHash": "a5ed70d10d1915ec4130afec7adddaff",
+            "FileCRC": "300f841e",
+            "FileSize": 4172,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/ProceduralUIImage/Resources/procedural_ui_image_default_sprite.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_[1]local_textures_hotinit.bundle",
+            "FileName": "4ea104afad0f4edad6a1a727dc0f4eb5.bundle",
+            "FileHash": "4ea104afad0f4edad6a1a727dc0f4eb5",
+            "FileCRC": "c917db53",
+            "FileSize": 53519,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/Textures/HotInit/76b326fb721f86457dbd92b93a259077.jpeg"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

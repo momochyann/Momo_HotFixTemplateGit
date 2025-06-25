@@ -1,0 +1,106 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "LocalDefaultPackage",
+    "PackageVersion": "25-0225-111627",
+    "AssetList": [
+        {
+            "Address": "ChangeSceneButton",
+            "AssetPath": "Assets/[1]Local/UI/GameStartScene/ChangeSceneButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "LoadNewGameVesion",
+            "AssetPath": "Assets/[1]Local/UI/HotInit/LoadNewGameVesion.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "SerialPortSetPanel",
+            "AssetPath": "Assets/[1]Local/UI/SerialPortSetPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "飞波正点体",
+            "AssetPath": "Assets/[1]Local/Fonts/飞波正点体.otf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "HotFixScene",
+            "AssetPath": "Assets/[1]Local/Scenes/HotFixScene.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "TestScene",
+            "AssetPath": "Assets/[1]Local/Scenes/TestScene.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_ui_gamestartscene.bundle",
+            "UnityCRC": 3001939202,
+            "FileHash": "712da0c58eeee4f9e28d98a62070c4f1",
+            "FileCRC": "ac7fb1db",
+            "FileSize": 11245012,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_ui_hotinit.bundle",
+            "UnityCRC": 2920706068,
+            "FileHash": "d466e08762eac7939c75537643100d68",
+            "FileCRC": "ccdeeab0",
+            "FileSize": 11461460,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_ui.bundle",
+            "UnityCRC": 3690328801,
+            "FileHash": "46ba8e0f9fd2020fabf0e28f2457cfb4",
+            "FileCRC": "208abddb",
+            "FileSize": 12488,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_fonts.bundle",
+            "UnityCRC": 714326965,
+            "FileHash": "3c8850d270dc0e662b88b22e10f9c175",
+            "FileCRC": "c9c55d6f",
+            "FileSize": 11237766,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_scenes.bundle",
+            "UnityCRC": 2225030366,
+            "FileHash": "97cbb4baae528366e8df45d471feebbb",
+            "FileCRC": "1777510a",
+            "FileSize": 110526,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

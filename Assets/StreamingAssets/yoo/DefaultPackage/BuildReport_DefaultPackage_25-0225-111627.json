@@ -1,0 +1,102 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2022.3.44f1c1",
+        "BuildDate": "2025/2/25 11:16:38",
+        "BuildSeconds": 10,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "25-0225-111627",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": false,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": false,
+        "AssetFileTotalCount": 3,
+        "MainAssetTotalCount": 3,
+        "AllBundleTotalCount": 3,
+        "AllBundleTotalSize": 11911,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotBadgeConfig",
+            "AssetPath": "Assets/[0]Cilent/Config/HotBadgeConfig.asset",
+            "AssetGUID": "195c542a8711ce5499a46f39bca92b97",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_config.bundle",
+            "MainBundleSize": 1825,
+            "DependAssets": []
+        },
+        {
+            "Address": "StartInit",
+            "AssetPath": "Assets/[0]Cilent/Prefabs/StartInit.prefab",
+            "AssetGUID": "72c77e01529b85a439fd2106e7bcbdd2",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_prefabs.bundle",
+            "MainBundleSize": 2655,
+            "DependAssets": []
+        },
+        {
+            "Address": "GameStartScene",
+            "AssetPath": "Assets/[0]Cilent/Scenes/GameStartScene.unity",
+            "AssetGUID": "b0e12921701a963438ebc88365a0969d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_[0]cilent_scenes.bundle",
+            "MainBundleSize": 7431,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_config.bundle",
+            "FileName": "e75e85002dbdb1db3084100ccd1b837a.bundle",
+            "FileHash": "e75e85002dbdb1db3084100ccd1b837a",
+            "FileCRC": "22022a0c",
+            "FileSize": 1825,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Config/HotBadgeConfig.asset"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_prefabs.bundle",
+            "FileName": "80ef2783d0dc65e22759b07e03914582.bundle",
+            "FileHash": "80ef2783d0dc65e22759b07e03914582",
+            "FileCRC": "6592fc7d",
+            "FileSize": 2655,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Prefabs/StartInit.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_scenes.bundle",
+            "FileName": "caa59390d52b28c3121c458f21bc5158.bundle",
+            "FileHash": "caa59390d52b28c3121c458f21bc5158",
+            "FileCRC": "b233d2cf",
+            "FileSize": 7431,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Scenes/GameStartScene.unity"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

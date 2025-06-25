@@ -1,0 +1,176 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2022.3.44f1c1",
+        "BuildDate": "2025/2/25 11:16:53",
+        "BuildSeconds": 6,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "LocalDefaultPackage",
+        "BuildPackageVersion": "25-0225-111627",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": false,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": false,
+        "AssetFileTotalCount": 13,
+        "MainAssetTotalCount": 6,
+        "AllBundleTotalCount": 5,
+        "AllBundleTotalSize": 34067252,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "ChangeSceneButton",
+            "AssetPath": "Assets/[1]Local/UI/GameStartScene/ChangeSceneButton.prefab",
+            "AssetGUID": "8b38cb560295d564e9d0318c4f6ef7f0",
+            "AssetTags": [],
+            "MainBundleName": "localdefaultpackage_assets_[1]local_ui_gamestartscene.bundle",
+            "MainBundleSize": 11245012,
+            "DependAssets": [
+                "Assets/[0]Cilent/Fonts/飞波正点体.otf"
+            ]
+        },
+        {
+            "Address": "LoadNewGameVesion",
+            "AssetPath": "Assets/[1]Local/UI/HotInit/LoadNewGameVesion.prefab",
+            "AssetGUID": "e80bb22a9245c6040afef791993c820a",
+            "AssetTags": [],
+            "MainBundleName": "localdefaultpackage_assets_[1]local_ui_hotinit.bundle",
+            "MainBundleSize": 11461460,
+            "DependAssets": [
+                "Assets/[0]Cilent/Fonts/飞波正点体.otf",
+                "Assets/QFramework/Toolkits/_CoreKit/PackageKit/Markdown/Resources/Skin/SourceCodePro-Light.otf",
+                "Assets/QFramework/Toolkits/_CoreKit/PackageKit/Markdown/Resources/Skin/SourceCodePro-Regular.otf"
+            ]
+        },
+        {
+            "Address": "SerialPortSetPanel",
+            "AssetPath": "Assets/[1]Local/UI/SerialPortSetPanel.prefab",
+            "AssetGUID": "01d20df02820afd4c9f432bcd63bf7c2",
+            "AssetTags": [],
+            "MainBundleName": "localdefaultpackage_assets_[1]local_ui.bundle",
+            "MainBundleSize": 12488,
+            "DependAssets": []
+        },
+        {
+            "Address": "飞波正点体",
+            "AssetPath": "Assets/[1]Local/Fonts/飞波正点体.otf",
+            "AssetGUID": "d59da62fad5a0a443a34144cf4046019",
+            "AssetTags": [],
+            "MainBundleName": "localdefaultpackage_assets_[1]local_fonts.bundle",
+            "MainBundleSize": 11237766,
+            "DependAssets": []
+        },
+        {
+            "Address": "HotFixScene",
+            "AssetPath": "Assets/[1]Local/Scenes/HotFixScene.unity",
+            "AssetGUID": "8c9cfa26abfee488c85f1582747f6a02",
+            "AssetTags": [],
+            "MainBundleName": "localdefaultpackage_assets_[1]local_scenes.bundle",
+            "MainBundleSize": 110526,
+            "DependAssets": [
+                "Assets/ProceduralUIImage/Editor/procedural_image_inspector_icon.png",
+                "Assets/ProceduralUIImage/Resources/procedural_ui_image_default_sprite.png",
+                "Assets/[1]Local/Textures/HotInit/76b326fb721f86457dbd92b93a259077.jpeg"
+            ]
+        },
+        {
+            "Address": "TestScene",
+            "AssetPath": "Assets/[1]Local/Scenes/TestScene.unity",
+            "AssetGUID": "6a3f7efce09d72d458fd66c40cdebc71",
+            "AssetTags": [],
+            "MainBundleName": "localdefaultpackage_assets_[1]local_scenes.bundle",
+            "MainBundleSize": 110526,
+            "DependAssets": [
+                "Assets/Plugins/AllIn1SpriteShader/Demo/Textures/BoyGirl.png"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_ui_gamestartscene.bundle",
+            "FileName": "712da0c58eeee4f9e28d98a62070c4f1.bundle",
+            "FileHash": "712da0c58eeee4f9e28d98a62070c4f1",
+            "FileCRC": "ac7fb1db",
+            "FileSize": 11245012,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/UI/GameStartScene/ChangeSceneButton.prefab",
+                "Assets/[0]Cilent/Fonts/飞波正点体.otf"
+            ]
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_ui_hotinit.bundle",
+            "FileName": "d466e08762eac7939c75537643100d68.bundle",
+            "FileHash": "d466e08762eac7939c75537643100d68",
+            "FileCRC": "ccdeeab0",
+            "FileSize": 11461460,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/UI/HotInit/LoadNewGameVesion.prefab",
+                "Assets/[0]Cilent/Fonts/飞波正点体.otf",
+                "Assets/QFramework/Toolkits/_CoreKit/PackageKit/Markdown/Resources/Skin/SourceCodePro-Light.otf",
+                "Assets/QFramework/Toolkits/_CoreKit/PackageKit/Markdown/Resources/Skin/SourceCodePro-Regular.otf"
+            ]
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_ui.bundle",
+            "FileName": "46ba8e0f9fd2020fabf0e28f2457cfb4.bundle",
+            "FileHash": "46ba8e0f9fd2020fabf0e28f2457cfb4",
+            "FileCRC": "208abddb",
+            "FileSize": 12488,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/UI/SerialPortSetPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_fonts.bundle",
+            "FileName": "3c8850d270dc0e662b88b22e10f9c175.bundle",
+            "FileHash": "3c8850d270dc0e662b88b22e10f9c175",
+            "FileCRC": "c9c55d6f",
+            "FileSize": 11237766,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/Fonts/飞波正点体.otf"
+            ]
+        },
+        {
+            "BundleName": "localdefaultpackage_assets_[1]local_scenes.bundle",
+            "FileName": "97cbb4baae528366e8df45d471feebbb.bundle",
+            "FileHash": "97cbb4baae528366e8df45d471feebbb",
+            "FileCRC": "1777510a",
+            "FileSize": 110526,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/Scenes/HotFixScene.unity",
+                "Assets/[1]Local/Scenes/TestScene.unity",
+                "Assets/ProceduralUIImage/Editor/procedural_image_inspector_icon.png",
+                "Assets/ProceduralUIImage/Resources/procedural_ui_image_default_sprite.png",
+                "Assets/[1]Local/Textures/HotInit/76b326fb721f86457dbd92b93a259077.jpeg",
+                "Assets/Plugins/AllIn1SpriteShader/Demo/Textures/BoyGirl.png"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

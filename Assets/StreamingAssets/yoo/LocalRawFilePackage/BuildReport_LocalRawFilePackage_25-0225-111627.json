@@ -1,0 +1,256 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2022.3.44f1c1",
+        "BuildDate": "2025/2/25 11:16:54",
+        "BuildSeconds": 0,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "RawFileBuildPipeline",
+        "BuildPackageName": "LocalRawFilePackage",
+        "BuildPackageVersion": "25-0225-111627",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": false,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 0,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": false,
+        "AssetFileTotalCount": 10,
+        "MainAssetTotalCount": 10,
+        "AllBundleTotalCount": 10,
+        "AllBundleTotalSize": 5987840,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "DOTween.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/DOTween.dll.bytes",
+            "AssetGUID": "6e5bb51606d348d4e9bb7e3403751e9e",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_dotween_dll_bytes.rawfile",
+            "MainBundleSize": 175616,
+            "DependAssets": []
+        },
+        {
+            "Address": "Main.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/Main.dll.bytes",
+            "AssetGUID": "ba28d81782d2d5a4986c9ac4b229068d",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_main_dll_bytes.rawfile",
+            "MainBundleSize": 31232,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/mscorlib.dll.bytes",
+            "AssetGUID": "be646c7451257f448ae5a8f42904b43c",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_mscorlib_dll_bytes.rawfile",
+            "MainBundleSize": 2466304,
+            "DependAssets": []
+        },
+        {
+            "Address": "QFramework.CoreKit.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/QFramework.CoreKit.dll.bytes",
+            "AssetGUID": "8fce46ae26a3f784cb9505ed97700a75",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_qframework_corekit_dll_bytes.rawfile",
+            "MainBundleSize": 691200,
+            "DependAssets": []
+        },
+        {
+            "Address": "QFramework.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/QFramework.dll.bytes",
+            "AssetGUID": "c5fdcf89fcdb19546879484e7157f2b4",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_qframework_dll_bytes.rawfile",
+            "MainBundleSize": 25600,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/System.Core.dll.bytes",
+            "AssetGUID": "879150c11da48c945b8a96d0904be250",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_system_core_dll_bytes.rawfile",
+            "MainBundleSize": 122368,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/System.dll.bytes",
+            "AssetGUID": "a13c00add51e33d49864f0290478acda",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_system_dll_bytes.rawfile",
+            "MainBundleSize": 837120,
+            "DependAssets": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/UniTask.dll.bytes",
+            "AssetGUID": "4b5686f4797f9714c98e813959718bfa",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_unitask_dll_bytes.rawfile",
+            "MainBundleSize": 342016,
+            "DependAssets": []
+        },
+        {
+            "Address": "UniTask.Linq.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/UniTask.Linq.dll.bytes",
+            "AssetGUID": "89d7636c2e8e3d244b5e6431b8290c55",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_unitask_linq_dll_bytes.rawfile",
+            "MainBundleSize": 696832,
+            "DependAssets": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/[1]Local/CodeMetadata/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "311cd8cca128f8c4db0f388732a1c5e2",
+            "AssetTags": [],
+            "MainBundleName": "localrawfilepackage_assets_[1]local_codemetadata_unityengine_coremodule_dll_bytes.rawfile",
+            "MainBundleSize": 599552,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_dotween_dll_bytes.rawfile",
+            "FileName": "c278d7f5c05b8470da58390f1a1efaa9.rawfile",
+            "FileHash": "c278d7f5c05b8470da58390f1a1efaa9",
+            "FileCRC": "451dfad9",
+            "FileSize": 175616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/DOTween.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_main_dll_bytes.rawfile",
+            "FileName": "41c6b5ca0e681b5fc36d3351bbe11504.rawfile",
+            "FileHash": "41c6b5ca0e681b5fc36d3351bbe11504",
+            "FileCRC": "00991991",
+            "FileSize": 31232,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/Main.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_mscorlib_dll_bytes.rawfile",
+            "FileName": "810bbac93001cb49ac1cac458511a6a5.rawfile",
+            "FileHash": "810bbac93001cb49ac1cac458511a6a5",
+            "FileCRC": "d21f00dc",
+            "FileSize": 2466304,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/mscorlib.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_qframework_corekit_dll_bytes.rawfile",
+            "FileName": "85742f909c50bcffb1aa2b57170d3923.rawfile",
+            "FileHash": "85742f909c50bcffb1aa2b57170d3923",
+            "FileCRC": "505495b2",
+            "FileSize": 691200,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/QFramework.CoreKit.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_qframework_dll_bytes.rawfile",
+            "FileName": "87b509d3913383c36daf047a55663b5c.rawfile",
+            "FileHash": "87b509d3913383c36daf047a55663b5c",
+            "FileCRC": "3161db68",
+            "FileSize": 25600,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/QFramework.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_system_core_dll_bytes.rawfile",
+            "FileName": "0f17fc9771051490c3db43ad1d869473.rawfile",
+            "FileHash": "0f17fc9771051490c3db43ad1d869473",
+            "FileCRC": "bf5841f9",
+            "FileSize": 122368,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/System.Core.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_system_dll_bytes.rawfile",
+            "FileName": "218f6016e59f4c19dffca4cac1a584e4.rawfile",
+            "FileHash": "218f6016e59f4c19dffca4cac1a584e4",
+            "FileCRC": "c65444c8",
+            "FileSize": 837120,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/System.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_unitask_dll_bytes.rawfile",
+            "FileName": "97ffb39b997c8a7b388af491780440dc.rawfile",
+            "FileHash": "97ffb39b997c8a7b388af491780440dc",
+            "FileCRC": "6630322e",
+            "FileSize": 342016,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/UniTask.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_unitask_linq_dll_bytes.rawfile",
+            "FileName": "a40720c7b13dc2ed50336f7b9e5cc39c.rawfile",
+            "FileHash": "a40720c7b13dc2ed50336f7b9e5cc39c",
+            "FileCRC": "03de9ac8",
+            "FileSize": 696832,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/UniTask.Linq.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "localrawfilepackage_assets_[1]local_codemetadata_unityengine_coremodule_dll_bytes.rawfile",
+            "FileName": "4f1522669672314f05ff8c130302f0f3.rawfile",
+            "FileHash": "4f1522669672314f05ff8c130302f0f3",
+            "FileCRC": "809f4ab2",
+            "FileSize": 599552,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[1]Local/CodeMetadata/UnityEngine.CoreModule.dll.bytes"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

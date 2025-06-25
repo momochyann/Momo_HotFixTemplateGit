@@ -1,0 +1,130 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "25-0312-090314",
+    "AssetList": [
+        {
+            "Address": "HotFixSceneBackImage",
+            "AssetPath": "Assets/[0]Cilent/Textures/HotFixSceneBackImage.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "标题",
+            "AssetPath": "Assets/[0]Cilent/Textures/标题.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "HotBadgeConfig",
+            "AssetPath": "Assets/[0]Cilent/Config/HotBadgeConfig.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "StartInit",
+            "AssetPath": "Assets/[0]Cilent/Prefabs/StartInit.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "GameStartScene",
+            "AssetPath": "Assets/[0]Cilent/Scenes/GameStartScene.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "HotFixScene",
+            "AssetPath": "Assets/[0]Cilent/Scenes/HotFixScene.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_textures.bundle",
+            "UnityCRC": 1847795349,
+            "FileHash": "f7e17e3d49a6990b06c5164d54b114ed",
+            "FileCRC": "938c5883",
+            "FileSize": 129538,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_config.bundle",
+            "UnityCRC": 3989134726,
+            "FileHash": "e75e85002dbdb1db3084100ccd1b837a",
+            "FileCRC": "22022a0c",
+            "FileSize": 1825,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_prefabs.bundle",
+            "UnityCRC": 2081059378,
+            "FileHash": "80ef2783d0dc65e22759b07e03914582",
+            "FileCRC": "6592fc7d",
+            "FileSize": 2655,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_scenes.bundle",
+            "UnityCRC": 2190913489,
+            "FileHash": "9565193292bb8e3381ac963abfe2318a",
+            "FileCRC": "5a031571",
+            "FileSize": 13526,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                0,
+                6,
+                5
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_proceduraluiimage_editor.bundle",
+            "UnityCRC": 4147687368,
+            "FileHash": "0edb95e91b636634d47311c51d8f26df",
+            "FileCRC": "616a50f8",
+            "FileSize": 1197,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_proceduraluiimage_resources.bundle",
+            "UnityCRC": 1071611681,
+            "FileHash": "a5ed70d10d1915ec4130afec7adddaff",
+            "FileCRC": "300f841e",
+            "FileSize": 4172,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_[1]local_textures_hotinit.bundle",
+            "UnityCRC": 1567103170,
+            "FileHash": "4ea104afad0f4edad6a1a727dc0f4eb5",
+            "FileCRC": "c917db53",
+            "FileSize": 53519,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

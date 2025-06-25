@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b02dfa7aa9d4545b3417a18477fbee, type: 3}
+  m_Name: BuildinFileManifest
+  m_EditorClassIdentifier: 
+  BuildinFiles:
+  - PackageName: DefaultPackage
+    FileName: 80ef2783d0dc65e22759b07e03914582.bundle
+    FileCRC32: 6592fc7d
+  - PackageName: DefaultPackage
+    FileName: BuildReport_DefaultPackage_25-0225-111627.json
+    FileCRC32: c7aadeae
+  - PackageName: DefaultPackage
+    FileName: caa59390d52b28c3121c458f21bc5158.bundle
+    FileCRC32: b233d2cf
+  - PackageName: DefaultPackage
+    FileName: e75e85002dbdb1db3084100ccd1b837a.bundle
+    FileCRC32: 22022a0c
+  - PackageName: DefaultPackage
+    FileName: OutputCache
+    FileCRC32: 95fff103
+  - PackageName: DefaultPackage
+    FileName: OutputCache.manifest
+    FileCRC32: f9d84577
+  - PackageName: LocalDefaultPackage
+    FileName: 3c8850d270dc0e662b88b22e10f9c175.bundle
+    FileCRC32: c9c55d6f
+  - PackageName: LocalDefaultPackage
+    FileName: 46ba8e0f9fd2020fabf0e28f2457cfb4.bundle
+    FileCRC32: 208abddb
+  - PackageName: LocalDefaultPackage
+    FileName: 712da0c58eeee4f9e28d98a62070c4f1.bundle
+    FileCRC32: ac7fb1db
+  - PackageName: LocalDefaultPackage
+    FileName: 97cbb4baae528366e8df45d471feebbb.bundle
+    FileCRC32: 1777510a
+  - PackageName: LocalDefaultPackage
+    FileName: BuildReport_LocalDefaultPackage_25-0225-111627.json
+    FileCRC32: baa13602
+  - PackageName: LocalDefaultPackage
+    FileName: d466e08762eac7939c75537643100d68.bundle
+    FileCRC32: ccdeeab0
+  - PackageName: LocalDefaultPackage
+    FileName: OutputCache
+    FileCRC32: a54bec4e
+  - PackageName: LocalDefaultPackage
+    FileName: OutputCache.manifest
+    FileCRC32: 52413916
+  - PackageName: LocalRawFilePackage
+    FileName: 0f17fc9771051490c3db43ad1d869473.rawfile
+    FileCRC32: bf5841f9
+  - PackageName: LocalRawFilePackage
+    FileName: 218f6016e59f4c19dffca4cac1a584e4.rawfile
+    FileCRC32: c65444c8
+  - PackageName: LocalRawFilePackage
+    FileName: 41c6b5ca0e681b5fc36d3351bbe11504.rawfile
+    FileCRC32: 00991991
+  - PackageName: LocalRawFilePackage
+    FileName: 4f1522669672314f05ff8c130302f0f3.rawfile
+    FileCRC32: 809f4ab2
+  - PackageName: LocalRawFilePackage
+    FileName: 810bbac93001cb49ac1cac458511a6a5.rawfile
+    FileCRC32: d21f00dc
+  - PackageName: LocalRawFilePackage
+    FileName: 85742f909c50bcffb1aa2b57170d3923.rawfile
+    FileCRC32: 505495b2
+  - PackageName: LocalRawFilePackage
+    FileName: 87b509d3913383c36daf047a55663b5c.rawfile
+    FileCRC32: 3161db68
+  - PackageName: LocalRawFilePackage
+    FileName: 97ffb39b997c8a7b388af491780440dc.rawfile
+    FileCRC32: 6630322e
+  - PackageName: LocalRawFilePackage
+    FileName: a40720c7b13dc2ed50336f7b9e5cc39c.rawfile
+    FileCRC32: 03de9ac8
+  - PackageName: LocalRawFilePackage
+    FileName: BuildReport_LocalRawFilePackage_25-0225-111627.json
+    FileCRC32: 2339474e
+  - PackageName: LocalRawFilePackage
+    FileName: c278d7f5c05b8470da58390f1a1efaa9.rawfile
+    FileCRC32: 451dfad9
+  - PackageName: RawFilePackage
+    FileName: 0a095490f9a0d729cb4ac5912832b7a3.rawfile
+    FileCRC32: bf21568d
+  - PackageName: RawFilePackage
+    FileName: BuildReport_RawFilePackage_25-0225-111627.json
+    FileCRC32: 7159bb89

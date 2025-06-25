@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root Version="v2.1">
+  <Common ShowPackageView="True" ShowEditorAlias="False" UniqueBundleName="True" />
+  <Package PackageName="DefaultPackage" PackageDesc="热更资源包" AutoAddressable="True" LocationToLower="False" IncludeAssetGUID="False" IgnoreRuleName="NormalIgnoreRule">
+    <Group GroupActiveRule="EnableGroup" GroupName="Audio" GroupDesc="音效" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Audio" CollectGUID="befe59be292e4cf49a979db50935861c" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Textrue" GroupDesc="图片" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Textures" CollectGUID="1a68d500c5440f5488ae806219aa4256" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Config" GroupDesc="SeriObject" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Config" CollectGUID="6f78274cbe527bf40a49b2123d785361" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Mat" GroupDesc="材质和着色器" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Materials" CollectGUID="4480f372a0b8d0547ba75eadc2e58dab" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Model" GroupDesc="模型" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Meshes" CollectGUID="f799032a39245fe43b7c3f28744e32f6" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Prefab" GroupDesc="预制体" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Prefabs" CollectGUID="8c3b10dc458b4c040963c86d67f46d36" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="UI" GroupDesc="UI预制体" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/UI" CollectGUID="0e4f5e95aaf3dec40977fba95147d4ac" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Scene" GroupDesc="场景" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Scenes" CollectGUID="3f10143fe77911c449c3bda1f26b4049" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+  </Package>
+  <Package PackageName="RawFilePackage" PackageDesc="热更代码包" AutoAddressable="True" LocationToLower="False" IncludeAssetGUID="False" IgnoreRuleName="NormalIgnoreRule">
+    <Group GroupActiveRule="EnableGroup" GroupName="Codedll" GroupDesc="热更新dll" AssetTags="">
+      <Collector CollectPath="Assets/[0]Cilent/Code" CollectGUID="37a070ea600296f4d9feb4453172ca31" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackRawFile" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+  </Package>
+  <Package PackageName="LocalDefaultPackage" PackageDesc="本地资源包" AutoAddressable="True" LocationToLower="False" IncludeAssetGUID="False" IgnoreRuleName="NormalIgnoreRule">
+    <Group GroupActiveRule="EnableGroup" GroupName="UI" GroupDesc="UI界面预制体" AssetTags="">
+      <Collector CollectPath="Assets/[1]Local/UI" CollectGUID="3755c9a0ca6ab224f8b218ac618a1d44" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Fonts" GroupDesc="字体" AssetTags="">
+      <Collector CollectPath="Assets/[1]Local/Fonts" CollectGUID="d5decf3a4afe3784db233c975bd0124e" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Scenes" GroupDesc="场景" AssetTags="">
+      <Collector CollectPath="Assets/[1]Local/Scenes" CollectGUID="cb22e15a8b4fcdb4c88bdf67af72c6b4" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="PreFab" GroupDesc="预制体" AssetTags="">
+      <Collector CollectPath="Assets/[1]Local/Prefabs" CollectGUID="0c1ef4a2d5e59534fbc8e593bde07496" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+    <Group GroupActiveRule="EnableGroup" GroupName="Audio" GroupDesc="音频" AssetTags="">
+      <Collector CollectPath="Assets/[1]Local/Audio" CollectGUID="1d2b96b730e931746903f3b94207bca4" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+  </Package>
+  <Package PackageName="LocalRawFilePackage" PackageDesc="本地代码包" AutoAddressable="True" LocationToLower="False" IncludeAssetGUID="False" IgnoreRuleName="NormalIgnoreRule">
+    <Group GroupActiveRule="EnableGroup" GroupName="" GroupDesc="" AssetTags="" />
+    <Group GroupActiveRule="EnableGroup" GroupName="CodeMetadata" GroupDesc="本地元数据" AssetTags="">
+      <Collector CollectPath="Assets/[1]Local/CodeMetadata" CollectGUID="0f67acdbaedd9f24191d7c6944d5f33a" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackRawFile" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+  </Package>
+</root>

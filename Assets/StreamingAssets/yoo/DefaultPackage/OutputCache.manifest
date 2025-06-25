@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 639292253
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: defaultpackage_assets_[0]cilent_config.bundle
+      Dependencies: {}
+    Info_1:
+      Name: defaultpackage_assets_[0]cilent_prefabs.bundle
+      Dependencies: {}
+    Info_2:
+      Name: defaultpackage_assets_[0]cilent_scenes.bundle
+      Dependencies: {}

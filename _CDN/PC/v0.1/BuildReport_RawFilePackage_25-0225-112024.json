@@ -1,0 +1,58 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2022.3.44f1c1",
+        "BuildDate": "2025/2/25 11:20:41",
+        "BuildSeconds": 0,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "RawFileBuildPipeline",
+        "BuildPackageName": "RawFilePackage",
+        "BuildPackageVersion": "25-0225-112024",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": false,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 0,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": false,
+        "AssetFileTotalCount": 1,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 10240,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotFix.dll",
+            "AssetPath": "Assets/[0]Cilent/Code/HotFix.dll.bytes",
+            "AssetGUID": "7e097e48355e2474aa1162d135abfe98",
+            "AssetTags": [],
+            "MainBundleName": "rawfilepackage_assets_[0]cilent_code_hotfix_dll_bytes.rawfile",
+            "MainBundleSize": 10240,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "rawfilepackage_assets_[0]cilent_code_hotfix_dll_bytes.rawfile",
+            "FileName": "0a095490f9a0d729cb4ac5912832b7a3.rawfile",
+            "FileHash": "0a095490f9a0d729cb4ac5912832b7a3",
+            "FileCRC": "bf21568d",
+            "FileSize": 10240,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/[0]Cilent/Code/HotFix.dll.bytes"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

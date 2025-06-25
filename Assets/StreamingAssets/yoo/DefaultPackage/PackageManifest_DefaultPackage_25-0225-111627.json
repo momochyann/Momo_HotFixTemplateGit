@@ -1,0 +1,65 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "25-0225-111627",
+    "AssetList": [
+        {
+            "Address": "HotBadgeConfig",
+            "AssetPath": "Assets/[0]Cilent/Config/HotBadgeConfig.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "StartInit",
+            "AssetPath": "Assets/[0]Cilent/Prefabs/StartInit.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "GameStartScene",
+            "AssetPath": "Assets/[0]Cilent/Scenes/GameStartScene.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_config.bundle",
+            "UnityCRC": 3989134726,
+            "FileHash": "e75e85002dbdb1db3084100ccd1b837a",
+            "FileCRC": "22022a0c",
+            "FileSize": 1825,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_prefabs.bundle",
+            "UnityCRC": 2081059378,
+            "FileHash": "80ef2783d0dc65e22759b07e03914582",
+            "FileCRC": "6592fc7d",
+            "FileSize": 2655,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_[0]cilent_scenes.bundle",
+            "UnityCRC": 617201134,
+            "FileHash": "caa59390d52b28c3121c458f21bc5158",
+            "FileCRC": "b233d2cf",
+            "FileSize": 7431,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

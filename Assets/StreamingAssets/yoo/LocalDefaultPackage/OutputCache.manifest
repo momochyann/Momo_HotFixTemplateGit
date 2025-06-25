@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 247855215
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: localdefaultpackage_assets_[1]local_ui_gamestartscene.bundle
+      Dependencies: {}
+    Info_1:
+      Name: localdefaultpackage_assets_[1]local_ui_hotinit.bundle
+      Dependencies: {}
+    Info_2:
+      Name: localdefaultpackage_assets_[1]local_ui.bundle
+      Dependencies: {}
+    Info_3:
+      Name: localdefaultpackage_assets_[1]local_fonts.bundle
+      Dependencies: {}
+    Info_4:
+      Name: localdefaultpackage_assets_[1]local_scenes.bundle
+      Dependencies: {}

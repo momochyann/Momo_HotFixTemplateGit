@@ -1,0 +1,22 @@
+{
+    "name": "Main",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e97e42c28a41430880bee376c274c86",
+        "GUID:13ba8ce62aa80c74598530029cb2d649",
+        "GUID:e34a5702dd353724aa315fb8011f08c3",
+        "GUID:cbe4e63cd6a61c344b44b817916c0c2f",
+        "GUID:f7e7461d1ebade24b9ad1bb533d111a6",
+        "GUID:038dff00bcd140258ec2ecc4c541bea0",
+        "GUID:ba5030f031387d649805b7e801e04e1c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
